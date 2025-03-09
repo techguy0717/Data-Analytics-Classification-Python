@@ -1,4 +1,4 @@
-# Data-Analytics-Project---Classification-with-Python
+# Data-Analytics-Classification-Python
 
 I created a repository for my Data Analytics Project at the University of Stirling.
 This repository includes a notebook and the outcome report of my project.
